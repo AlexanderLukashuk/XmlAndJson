@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<users>
+    <user>
+        <name type="string" values="Лукашук Александр"/>
+        <email type="string" value="myMail@gmail.com"/>
+        <password>VeryStrongPassword228</Password>
+        <videos>
+            <video>
+                <videoName type="string" value="first video"/>
+            </video>
+            <video>
+                <videoName type="string" value="second video"/>
+            </video>
+        </videos>
+    </user>
+    <user>
+        <name type="string" values="Саня"/>
+        <email type="string" value="Sanya@gmail.com"/>
+        <password>NotSanya</Password>
+        <videos>
+            <video>
+                <videoName type="string" value="not first video"/>
+            </video>
+            <video>
+                <videoName type="string" value="video"/>
+            </video>
+            <video>
+                <videoName type="string" value="oediv"/>
+            </video>
+        </videos>
+    </user>
+</users>

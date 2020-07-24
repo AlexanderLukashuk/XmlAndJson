@@ -1,0 +1,31 @@
+[
+    {
+        "name": "Лукашук Александр",
+        "email": "myMail@gmail.com",
+        "password": "VeryStrongPassword228",
+        "videos": [
+            {
+                "videoName": "first video"
+            },
+            {
+                "videoName": "second video"
+            }
+        ]
+    },
+    {
+        "name": "Саня",
+        "email": "Sanya@gmail.com",
+        "password": "NotSanya",
+        "videos": [
+            {
+                "videoName": "not first video"
+            },
+            {
+                "videoName": "video"
+            },
+            {
+                "videoName": "oediv"
+            }
+        ]
+    }
+]
